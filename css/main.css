@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Chirp Regular";
+    src: url("../fonts/chirp-regular-web.ttf")
+}
+
+* {
+    font-family: "Chirp Regular", Consolas, monospace;
+}
