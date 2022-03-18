@@ -12,6 +12,12 @@ body {
     background: black;
 }
 div {
+    border: white;
+    border-radius: 10pt;
+    border-width: 1pt;
+}
+.post {
+    align-content: left;
     align-self: center;
     border: white;
     border-radius: 10pt;
