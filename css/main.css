@@ -6,6 +6,7 @@
 * {
     font-family: "Chirp Regular";
     color: white;
+    text-shadow: none;
 }
 body {
     background: black;
