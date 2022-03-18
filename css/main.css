@@ -16,7 +16,7 @@ div {
     border-radius: 10pt;
     border-width: 1pt;
 }
-.post {
+#post {
     align-content: left;
     align-self: center;
     border: white;
