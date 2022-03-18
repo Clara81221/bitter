@@ -22,4 +22,6 @@ div {
     border: white;
     border-radius: 10pt;
     border-width: 1pt;
+    width: 100;
+    height: 100;
 }
