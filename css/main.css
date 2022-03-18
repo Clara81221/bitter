@@ -15,4 +15,5 @@ div {
     align-self: center;
     border: white;
     border-radius: 10px;
+    border-width: 1;
 }
